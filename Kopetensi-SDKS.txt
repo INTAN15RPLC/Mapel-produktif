@@ -1,5 +1,7 @@
 Komunikasi SDKD
 a. Komunikasi Daring Sinkron
+  - Line
 b. Komunikasi Daring Asintkron
+  - Email
 c. GITHUB
 d. GIT
